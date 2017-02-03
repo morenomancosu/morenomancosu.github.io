@@ -32,13 +32,13 @@ a.nav-link {
 	color: #aaa;
 }
 a.nav-link i{
-	font-size: 16px;
+	font-size: 12px;
 }
 a.nav-link:hover { color: #777; }
 
 #bio {
 	font-family: "Ubuntu";
-	font-size: 11px;
+	font-size: 13px;
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
@@ -82,8 +82,9 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #42586E;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -103,7 +104,7 @@ article{
 
 .post-date {
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 12px;
 	letter-spacing: 3px;
 }
 
@@ -123,20 +124,21 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #f2756a;
+	color: #617487;
+	font-size: 22px;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #f2756a;
+	color: #617487;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #e74c3c;
+	color: #0C2032;
 }
 
 .author .author-image {
@@ -145,7 +147,7 @@ article.home h4 a:hover {
 }
 
 footer {
-	padding-top: 15px;
+	padding-top: 13px;
 	font-family: 'Ubuntu';
 }
 
