@@ -7,6 +7,28 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Moreno Mancosu's personal webpage</title>
+				<description>
+</description>
+				<pubDate>Thu, 08 Feb 2018 00:00:00 +0100</pubDate>
+				<link>/2018/02/08/GioItaPsi.html</link>
+				<guid isPermaLink="true">/2018/02/08/GioItaPsi.html</guid>
+			</item>
+		
+			<item>
+				<title>New article on "Giornale Italiano di Psicologia"</title>
+				<description>&lt;div align=&quot;justify&quot;&gt;
+This is a piece I like a lot, only in Italian (so far). You can find it &lt;a href=&quot;https://www.rivisteweb.it/doi/10.1421/88777&quot;&gt;here&lt;/a&gt;. 
+&lt;br /&gt;&lt;br /&gt;&lt;i&gt;
+Nelle survey online, per rispondere alla mancanza di controllo sull'intervistato, si è diffuso l'utilizzo di domande screener per valutare l'attenzione che i soggetti pongono nel rispondere al questionario. Per superare con successo una domanda screener, un intervistato deve seguire istruzioni inserite all'interno di un testo che contiene una quantità variabile di informazioni di disturbo. Mediante un esperimento effettuato in una survey online nell'ambito dell'Italian National Election Study con dati raccolti nel 2015 su un campione di 3.000 individui, si rileva come una larga parte degli intervistati (≥ 50%) non ponga adeguata attenzione al testo delle domande, soprattutto se il testo è lungo e complesso. Gli screener si dimostrano efficaci nel valutare la qualità degli intervistati soprattutto se il carico cognitivo che viene richiesto per superare la prova è basso. &amp;lt;/div&amp;gt;
+&lt;/i&gt;&lt;/div&gt;
+</description>
+				<pubDate>Wed, 07 Feb 2018 00:00:00 +0100</pubDate>
+				<link>/2018/02/07/Politics.html</link>
+				<guid isPermaLink="true">/2018/02/07/Politics.html</guid>
+			</item>
+		
+			<item>
 				<title>New article on "Austrian Journal of Political Science"</title>
 				<description>&lt;div align=&quot;justify&quot;&gt;
 New piece on interpersonal communication and influence with a super-cool dataset. You can find it &lt;a href=&quot;https://webapp.uibk.ac.at/ojs/index.php/OEZP/article/view/1893/1950&quot;&gt;here&lt;/a&gt;. 
@@ -125,28 +147,6 @@ we can employ the diffusion of innovation theoretical framework. A lot of math a
 				<pubDate>Fri, 14 Oct 2016 00:00:00 +0200</pubDate>
 				<link>/2016/10/14/Carlo-Alberto-Notebook.html</link>
 				<guid isPermaLink="true">/2016/10/14/Carlo-Alberto-Notebook.html</guid>
-			</item>
-		
-			<item>
-				<title>Working paper and presentation at SISP conference</title>
-				<description>&lt;div align=&quot;justify&quot;&gt;
-During the XXX SISP conference in Milan (September 14-16, 2016) I have presented a (very, very) early stage paper concerning selective exposure to populist appeals in social media. The article is available &lt;a href=&quot;http://www.sisp.it/docs/convegno2016/125_sisp2016_comunicazione-politica.pdf&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
-</description>
-				<pubDate>Sat, 17 Sep 2016 00:00:00 +0200</pubDate>
-				<link>/2016/09/17/SISP.html</link>
-				<guid isPermaLink="true">/2016/09/17/SISP.html</guid>
-			</item>
-		
-			<item>
-				<title>New website</title>
-				<description>&lt;div align=&quot;justify&quot;&gt;
-Ok, that's pretty embarrassing, but I'm all grown up, I started publishing something, and I must launch my brand-new personal website. After about a half-hour-long beta-testing on it, I concluded that it's more or less readable on Chrome/Ubuntu. Having played quite a bit with the (terrific) &lt;a href=&quot;https://github.com/dbtek&quot;&gt;dbyll code&lt;/a&gt;, I have no idea on how the site works with other OS/browsers. If you find something odd and you're extremely kind, you can e-mail me signalling me the problem. 
-&lt;br /&gt;
-Edit. I have also created a &lt;a href=&quot;http://www.twitter.com/morenomancosu&quot;&gt;Twitter account&lt;/a&gt;, which nowadays seems mandatory for wannabe academics.&lt;/div&gt;
-</description>
-				<pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
-				<link>/2016/09/01/New-Site.html</link>
-				<guid isPermaLink="true">/2016/09/01/New-Site.html</guid>
 			</item>
 		
 	</channel>
